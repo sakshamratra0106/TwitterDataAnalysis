@@ -18,7 +18,8 @@ There are number of Python libraries you will need for this for starters 7 of th
 7. email(For DateTimeZone Conversion)
 
 ==> Points To Note
-##Keep All Three .Py file in single folder and Run accessing_published_tweets.py.
+
+##Keep All Three .Py file in single folder and Run accessing_published_tweets.py
 
 ##Three Files
 1. accessing_published_tweets.py(Capturing Real time twitter tweets)
@@ -27,4 +28,5 @@ There are number of Python libraries you will need for this for starters 7 of th
 
 
 ##Polarity is the sentment analsysis of the Text(1 being the most positive and -1 being the most negative tweet)
+
 ##Output CSV has the Two extra sheets which has a pivot table to show count of tweets from a particular location/User
